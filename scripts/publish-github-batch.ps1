@@ -30,6 +30,7 @@ $files = @(
     "README.md",
     "KOBI-DevAgent.md",
     "AGENT-OPERATING-SYSTEM.md",
+    "DOMAIN-STRATEGY.md",
     "PROJECT-ROADMAP.md",
     "DEPLOYMENT-RUNBOOK.md",
     "MONETIZATION-PLAN.md",
@@ -46,9 +47,11 @@ $files = @(
     ".agents/07-analytics-operator.md",
     ".agents/08-partnership-outreach-agent.md",
     ".agents/09-compliance-trust-agent.md",
+    ".agents/10-domain-brand-agent.md",
     "scripts/check-live-site.ps1",
     "scripts/sync-github.ps1",
-    "scripts/publish-github-batch.ps1"
+    "scripts/publish-github-batch.ps1",
+    "scripts/set-custom-domain.ps1"
 )
 
 $ref = & $gh api "repos/$fullRepo/git/ref/heads/main" | ConvertFrom-Json
