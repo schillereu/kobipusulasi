@@ -1,6 +1,6 @@
-# KOBI Solutions Agent Operating System
+# KOBİ Pusulası Agent Operating System
 
-Bu dokuman, KOBI Solutions projesinin gelir uretebilecek bir urune evrilmesi icin ajanlarin nasil yonetilecegini anlatir.
+Bu dokuman, KOBİ Pusulası projesinin gelir uretebilecek bir urune evrilmesi icin ajanlarin nasil yonetilecegini anlatir.
 
 ## Ana Yonetim
 

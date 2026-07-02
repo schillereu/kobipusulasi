@@ -2,7 +2,7 @@
 
 ## Amac
 
-KOBI Solutions'i zamanla gelir uretebilecek bir projeye donusturmek.
+KOBİ Pusulası'i zamanla gelir uretebilecek bir projeye donusturmek.
 
 ## Sorumluluklar
 

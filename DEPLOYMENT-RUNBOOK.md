@@ -1,6 +1,6 @@
-# KOBI Solutions Yayin ve Kalite Kontrol Runbook'u
+# KOBİ Pusulası Yayin ve Kalite Kontrol Runbook'u
 
-Bu calisma kitabi, KOBI Solutions sitesini GitHub Pages uzerinde yayinlamak, yayin durumunu kontrol etmek, hata durumunda geri donmek ve ucretsiz hosting alternatiflerini hazir tutmak icin kullanilir.
+Bu calisma kitabi, KOBİ Pusulası sitesini GitHub Pages uzerinde yayinlamak, yayin durumunu kontrol etmek, hata durumunda geri donmek ve ucretsiz hosting alternatiflerini hazir tutmak icin kullanilir.
 
 ## 1. Yayin Oncesi Kontrol
 
@@ -22,7 +22,7 @@ powershell -ExecutionPolicy Bypass -File .\scripts\sync-github.ps1
 Bu akis:
 
 - JavaScript kontrolu yapar.
-- Dosyalari `schillereu/kobi-solutions` reposuna aktarir.
+- Dosyalari `schillereu/kobipusulasi` reposuna aktarir.
 - GitHub Pages'in hazirlanmasini bekler.
 - Canli linkin acildigini kontrol eder.
 
@@ -37,14 +37,14 @@ Manuel alternatif:
 
 Kontrol edilecek linkler:
 
-- Repo: https://github.com/schillereu/kobi-solutions
-- Site: https://schillereu.github.io/kobi-solutions/
+- Repo: https://github.com/schillereu/kobipusulasi
+- Site: https://schillereu.github.io/kobipusulasi/
 
 Beklenen durum:
 
 - GitHub Pages status: `built`
 - Canli site HTTP: `200`
-- Ana sayfada `KOBI Solutions` metni gorunur.
+- Ana sayfada `KOBİ Pusulası` metni gorunur.
 
 ## 4. Canli Site Kontrol Listesi
 

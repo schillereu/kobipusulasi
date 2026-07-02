@@ -2,7 +2,7 @@
 
 ## Amac
 
-KOBI Solutions projesi icin akilda kalici, guven veren ve gelir modeline uygun marka/alan adi stratejisini yonetmek.
+KOBİ Pusulası projesi icin akilda kalici, guven veren ve gelir modeline uygun marka/alan adi stratejisini yonetmek.
 
 ## Sorumluluklar
 

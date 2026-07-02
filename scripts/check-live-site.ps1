@@ -1,7 +1,7 @@
 $ErrorActionPreference = "Stop"
 
-$siteUrl = "https://schillereu.github.io/kobi-solutions/"
-$repo = "schillereu/kobi-solutions"
+$siteUrl = "https://schillereu.github.io/kobipusulasi/"
+$repo = "schillereu/kobipusulasi"
 $gh = "C:\Program Files\GitHub CLI\gh.exe"
 
 Write-Host "Canli site kontrol ediliyor: $siteUrl"
@@ -11,8 +11,8 @@ if ($response.StatusCode -ne 200) {
     throw "Canli site beklenen 200 yanitini vermedi. Durum: $($response.StatusCode)"
 }
 
-if ($response.Content -notmatch "KOBI Solutions") {
-    throw "Canli sayfa iceriginde KOBI Solutions metni bulunamadi."
+if ($response.Content -notmatch "KOBİ Pusulası") {
+    throw "Canli sayfa iceriginde KOBİ Pusulası metni bulunamadi."
 }
 
 $pagesStatus = & $gh api "repos/$repo/pages" --jq .status

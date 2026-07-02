@@ -7,7 +7,7 @@ param(
 
 $root = Split-Path -Parent $PSScriptRoot
 $gh = "C:\Program Files\GitHub CLI\gh.exe"
-$repo = "kobi-solutions"
+$repo = "kobipusulasi"
 $owner = (& $gh api user --jq .login).Trim()
 $fullRepo = "$owner/$repo"
 

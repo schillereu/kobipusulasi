@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 
 $root = Split-Path -Parent $PSScriptRoot
 $gh = "C:\Program Files\GitHub CLI\gh.exe"
-$repo = "kobi-solutions"
+$repo = "kobipusulasi"
 $owner = (& $gh api user --jq .login).Trim()
 $fullRepo = "$owner/$repo"
 $description = "KOBI'ler icin teknoloji araci kesif ve karsilastirma sitesi."

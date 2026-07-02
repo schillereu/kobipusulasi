@@ -1,6 +1,6 @@
-# KOBI Solutions Conversion ve QA Playbook
+# KOBİ Pusulası Conversion ve QA Playbook
 
-Bu playbook, KOBI Solutions web sitesinde ziyaretcileri nitelikli lead'e donusturmek, teklif/iletisim akisini sade tutmak ve canli sitede kaliteyi surekli kontrol etmek icin kullanilir.
+Bu playbook, KOBİ Pusulası web sitesinde ziyaretcileri nitelikli lead'e donusturmek, teklif/iletisim akisini sade tutmak ve canli sitede kaliteyi surekli kontrol etmek icin kullanilir.
 
 ## 1. Ziyaretciyi Lead'e Donusturme Akisi
 
@@ -8,7 +8,7 @@ Bu playbook, KOBI Solutions web sitesinde ziyaretcileri nitelikli lead'e donustu
 
 Ziyaretcinin su sorulara hizli yanit bulmasi gerekir:
 
-- KOBI Solutions hangi problemi cozer?
+- KOBİ Pusulası hangi problemi cozer?
 - Benim isletmem icin uygun mu?
 - Nasil karsilastiririm veya karar veririm?
 - Hemen ne yapmaliyim?

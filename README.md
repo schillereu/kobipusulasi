@@ -1,20 +1,31 @@
-# KOBI Solutions
+# KOBI Pusulasi
 
 KOBI'ler icin teknoloji araci kesif ve karsilastirma sitesi.
 
-## Yerelde acma
+Canli site:
 
-`index.html` dosyasini tarayicida acmaniz yeterli.
+```text
+https://schillereu.github.io/kobipusulasi/
+```
 
-## Yayina alma
+Repo:
 
-Bu proje statik dosyalardan olusur. GitHub Pages, Netlify veya Vercel ile yayinlanabilir.
+```text
+https://github.com/schillereu/kobipusulasi
+```
 
-En kolay akış:
+## Yerelde Acma
 
-1. Bu klasoru bir GitHub reposuna yukleyin.
-2. GitHub'da Settings > Pages bolumune girin.
-3. Source olarak main branch ve root klasoru secin.
-4. Kaydettikten sonra verilen `https://kullaniciadi.github.io/repo-adi/` linkini arkadasinizla paylasin.
+`index.html` dosyasini tarayicida acmak yeterlidir.
 
-Netlify veya Vercel kullanirsaniz proje ayarlari hazirdir; build komutu gerekmez, publish dizini proje kokudur.
+## Yayinlama
+
+Bu proje statik dosyalardan olusur. GitHub Pages uzerinden ucretsiz yayinlanir.
+
+Yayin ve kontrol komutu:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\sync-github.ps1
+```
+
+Bu komut JavaScript kontrolu yapar, GitHub'a tek toplu commit gonderir ve canli siteyi kontrol eder.
