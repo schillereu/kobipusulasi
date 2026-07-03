@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>&#304;htiya&#231; Analizi - KOB&#304; Rotas&#305;</title>
+    <meta name="description" content="KOB&#304; i&#351;letmeniz i&#231;in teknoloji ihtiyac&#305;n&#305; netle&#351;tiren k&#305;sa analiz formu.">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <a class="logo" href="index.html" aria-label="KOB&#304; Rotas&#305; ana sayfa">
+                <span class="logo-mark" aria-hidden="true">&#128200;</span>
+                <span><strong>KOB&#304; Rotas&#305;</strong><small>Teknoloji karar rehberi</small></span>
+            </a>
+            <nav class="nav" aria-label="Ana men&#252;">
+                <ul>
+                    <li><a href="index.html">Ana Sayfa</a></li>
+                    <li><a href="rehberler.html">Rehberler</a></li>
+                    <li><a href="arac-secim.html">Ara&#231; Testi</a></li>
+                    <li><a href="ihtiyac-analizi.html" aria-current="page">&#304;htiya&#231; Analizi</a></li>
+                    <li><a href="hakkinda.html">Hakk&#305;nda</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="subpage-hero">
+            <div class="container">
+                <p class="eyebrow">D&#246;n&#252;&#351;&#252;m ak&#305;&#351;&#305;</p>
+                <h1>&#304;&#351;letmenin teknoloji ihtiyac&#305;n&#305; 5 dakikada netle&#351;tir</h1>
+                <p>Bu form, ileride dan&#305;&#351;manl&#305;k talebi ve e-posta listesi i&#231;in kullan&#305;lacak ak&#305;&#351;&#305;n ilk s&#252;r&#252;m&#252;d&#252;r. &#350;imdilik bilgileri cihaz&#305;nda saklar ve sana kopyalanabilir bir &#246;zet haz&#305;rlar.</p>
+            </div>
+        </section>
+
+        <section class="lead-section">
+            <div class="container lead-layout">
+                <form class="lead-form" id="leadForm">
+                    <div class="form-grid">
+                        <label>
+                            Ad soyad
+                            <input type="text" name="name" autocomplete="name" required>
+                        </label>
+                        <label>
+                            E-posta
+                            <input type="email" name="email" autocomplete="email" required>
+                        </label>
+                    </div>
+                    <div class="form-grid">
+                        <label>
+                            &#304;&#351;letme t&#252;r&#252;
+                            <select name="businessType" required>
+                                <option value="">Se&#231;iniz</option>
+                                <option>Dan&#305;&#351;manl&#305;k / hizmet</option>
+                                <option>E-ticaret</option>
+                                <option>Yerel i&#351;letme</option>
+                                <option>Ajans / kreatif ekip</option>
+                                <option>Yeni giri&#351;im</option>
+                            </select>
+                        </label>
+                        <label>
+                            Ekip b&#252;y&#252;kl&#252;&#287;&#252;
+                            <select name="teamSize" required>
+                                <option value="">Se&#231;iniz</option>
+                                <option>1-3 ki&#351;i</option>
+                                <option>4-10 ki&#351;i</option>
+                                <option>11-25 ki&#351;i</option>
+                                <option>25+ ki&#351;i</option>
+                            </select>
+                        </label>
+                    </div>
+                    <label>
+                        En acil ihtiya&#231;
+                        <select name="need" required>
+                            <option value="">Se&#231;iniz</option>
+                            <option>CRM ve m&#252;&#351;teri takibi</option>
+                            <option>Muhasebe ve fatura d&#252;zeni</option>
+                            <option>E-ticaret altyap&#305;s&#305;</option>
+                            <option>Pazarlama ve e-posta otomasyonu</option>
+                            <option>Proje y&#246;netimi</option>
+                            <option>M&#252;&#351;teri destek sistemi</option>
+                        </select>
+                    </label>
+                    <label>
+                        &#350;u an kulland&#305;&#287;&#305;n ara&#231;lar
+                        <textarea name="currentTools" rows="4" placeholder="Excel, WhatsApp, Gmail, Shopify, Logo, vb."></textarea>
+                    </label>
+                    <label>
+                        Hedefin nedir?
+                        <textarea name="goal" rows="4" placeholder="Daha d&#252;zenli sat&#305;&#351; takibi, daha h&#305;zl&#305; teklif, destek taleplerini tek yerde toplamak..."></textarea>
+                    </label>
+                    <label class="consent-row">
+                        <input type="checkbox" name="consent" required>
+                        <span>Bu bilgilerin analiz &#246;zeti olu&#351;turmak i&#231;in kullan&#305;lmas&#305;n&#305; kabul ediyorum. Ger&#231;ek servis ba&#287;lanana kadar bilgiler cihaz&#305;mda saklan&#305;r.</span>
+                    </label>
+                    <button class="primary-link assessment-submit" type="submit">Analiz &#246;zetimi haz&#305;rla</button>
+                </form>
+
+                <aside class="lead-aside">
+                    <p class="eyebrow">Neden &#246;nemli?</p>
+                    <h2>Bu form gelir modelinin temelidir</h2>
+                    <p>Dan&#305;&#351;manl&#305;k, affiliate ve sponsorlu i&#231;erik taraf&#305; i&#231;in en de&#287;erli sinyal, ziyaret&#231;inin hangi problemi &#231;&#246;zmeye &#231;al&#305;&#351;t&#305;&#287;&#305;d&#305;r.</p>
+                    <ul class="trust-list">
+                        <li>&#304;htiyac&#305; netle&#351;tirir.</li>
+                        <li>Do&#287;ru kategoriye y&#246;nlendirir.</li>
+                        <li>&#304;leride e-posta listesi ve dan&#305;&#351;manl&#305;k talebine ba&#287;lanabilir.</li>
+                    </ul>
+                </aside>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container footer-content">
+            <div><h4>KOB&#304; Rotas&#305;</h4><p>&#304;htiyac&#305; netle&#351;tir, sonra ara&#231; se&#231;.</p></div>
+            <div><h4>Devam</h4><p><a href="arac-secim.html">Ara&#231; testi</a></p><p><a href="rehberler.html">Rehberler</a></p></div>
+            <div><h4>Yasal</h4><p><a href="privacy.html">Gizlilik</a></p><p><a href="affiliate.html">Affiliate notu</a></p></div>
+        </div>
+    </footer>
+
+    <script src="lead.js" defer></script>
+</body>
+</html>

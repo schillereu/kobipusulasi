@@ -59,7 +59,10 @@ if (form && result) {
                 <li>${advice.budgetAdvice}</li>
                 <li>Ilk hafta sadece bir sureci sisteme tasi; tum isletmeyi ayni anda donusturmeye calisma.</li>
             </ul>
-            <a class="primary-link" href="${advice.link}">${advice.cta}</a>
+            <div class="route-cta">
+                <a class="primary-link" href="${advice.link}">${advice.cta}</a>
+                <a class="secondary-text-link" href="ihtiyac-analizi.html">Detayli ihtiyac analizi al</a>
+            </div>
         `;
     });
 }
