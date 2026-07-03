@@ -1,6 +1,6 @@
-# KOBİ Pusulası Yayin ve Kalite Kontrol Runbook'u
+# KOBİ Rotası Yayin ve Kalite Kontrol Runbook'u
 
-Bu calisma kitabi, KOBİ Pusulası sitesini GitHub Pages uzerinde yayinlamak, yayin durumunu kontrol etmek, hata durumunda geri donmek ve ucretsiz hosting alternatiflerini hazir tutmak icin kullanilir.
+Bu calisma kitabi, KOBİ Rotası sitesini GitHub Pages uzerinde yayinlamak, yayin durumunu kontrol etmek, hata durumunda geri donmek ve ucretsiz hosting alternatiflerini hazir tutmak icin kullanilir.
 
 ## 1. Yayin Oncesi Kontrol
 
@@ -22,7 +22,7 @@ powershell -ExecutionPolicy Bypass -File .\scripts\sync-github.ps1
 Bu akis:
 
 - JavaScript kontrolu yapar.
-- Dosyalari `schillereu/kobipusulasi` reposuna aktarir.
+- Dosyalari `schillereu/kobirotasi` reposuna aktarir.
 - GitHub Pages'in hazirlanmasini bekler.
 - Canli linkin acildigini kontrol eder.
 
@@ -37,14 +37,14 @@ Manuel alternatif:
 
 Kontrol edilecek linkler:
 
-- Repo: https://github.com/schillereu/kobipusulasi
-- Site: https://schillereu.github.io/kobipusulasi/
+- Repo: https://github.com/schillereu/kobirotasi
+- Site: https://schillereu.github.io/kobirotasi/
 
 Beklenen durum:
 
 - GitHub Pages status: `built`
 - Canli site HTTP: `200`
-- Ana sayfada `KOBİ Pusulası` metni gorunur.
+- Ana sayfada `KOBİ Rotası` metni gorunur.
 
 ## 4. Canli Site Kontrol Listesi
 

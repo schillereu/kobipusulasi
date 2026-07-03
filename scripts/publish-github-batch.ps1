@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 
 $root = Split-Path -Parent $PSScriptRoot
 $gh = "C:\Program Files\GitHub CLI\gh.exe"
-$repo = "kobipusulasi"
+$repo = "kobirotasi"
 $owner = (& $gh api user --jq .login).Trim()
 $fullRepo = "$owner/$repo"
 $description = "KOBI'ler icin teknoloji araci kesif ve karsilastirma sitesi."
@@ -29,6 +29,8 @@ $files = @(
     ".gitignore",
     "README.md",
     "KOBI-DevAgent.md",
+    "EXECUTION-ALGORITHM.md",
+    "BRAND-DOMAIN-KARARI.md",
     "AGENT-OPERATING-SYSTEM.md",
     "DOMAIN-STRATEGY.md",
     "PROJECT-ROADMAP.md",
@@ -48,6 +50,10 @@ $files = @(
     ".agents/08-partnership-outreach-agent.md",
     ".agents/09-compliance-trust-agent.md",
     ".agents/10-domain-brand-agent.md",
+    ".agents/11-content-factory-agent.md",
+    ".agents/12-affiliate-link-manager-agent.md",
+    ".agents/13-performance-accessibility-agent.md",
+    ".agents/14-credit-budget-orchestrator-agent.md",
     "scripts/check-live-site.ps1",
     "scripts/sync-github.ps1",
     "scripts/publish-github-batch.ps1",

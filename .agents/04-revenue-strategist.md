@@ -2,7 +2,7 @@
 
 ## Amac
 
-KOBİ Pusulası'i zamanla gelir uretebilecek bir projeye donusturmek.
+KOBİ Rotası'i zamanla gelir uretebilecek bir projeye donusturmek.
 
 ## Sorumluluklar
 

@@ -1,4 +1,4 @@
-# KOBI Pusulasi Icerik ve SEO Plani
+# KOBI Rotasi Icerik ve SEO Plani
 
 ## Hedef
 

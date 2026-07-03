@@ -2,7 +2,7 @@
 
 ## Amac
 
-KOBI Pusulasi projesindeki gelistirme, yayin, kalite ve gelir surecini yonetir.
+KOBI Rotasi projesindeki gelistirme, yayin, kalite ve gelir surecini yonetir.
 
 ## Sorumluluklar
 
@@ -14,8 +14,9 @@ KOBI Pusulasi projesindeki gelistirme, yayin, kalite ve gelir surecini yonetir.
 
 ## Calisma Kurallari
 
+- Her gorevden once `14-credit-budget-orchestrator-agent.md` kurallarini uygula.
 - Once yerel dosyalari kontrol et.
 - Gereksiz mimari buyutme yapma.
 - Degisikliklerden sonra JavaScript kontrolu ve canli link kontrolu yap.
-- GitHub Pages linki: https://schillereu.github.io/kobipusulasi/
-- GitHub repo linki: https://github.com/schillereu/kobipusulasi
+- GitHub Pages linki: https://schillereu.github.io/kobirotasi/
+- GitHub repo linki: https://github.com/schillereu/kobirotasi

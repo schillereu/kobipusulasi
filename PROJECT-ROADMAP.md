@@ -1,10 +1,10 @@
-# KOBİ Pusulası Site Yol Haritasi
+# KOBİ Rotası Site Yol Haritasi
 
-Bu yol haritasi, KOBİ Pusulası statik GitHub Pages sitesini daha guvenilir, anlasilir ve portfoy degeri yuksek bir hale getirmek icin hazirlandi. Amac, teknik ayrintilara bogulmadan ziyaretcinin ne yaptigimizi hizli anlamasini, guven duymasini ve iletisime gecmesini kolaylastirmaktir.
+Bu yol haritasi, KOBİ Rotası statik GitHub Pages sitesini daha guvenilir, anlasilir ve portfoy degeri yuksek bir hale getirmek icin hazirlandi. Amac, teknik ayrintilara bogulmadan ziyaretcinin ne yaptigimizi hizli anlamasini, guven duymasini ve iletisime gecmesini kolaylastirmaktir.
 
 ## Kisa Vade
 
-- Ana sayfadaki ilk ekran, KOBİ Pusulası'in kimlere hangi faydayi sundugunu tek bakista anlatmali.
+- Ana sayfadaki ilk ekran, KOBİ Rotası'in kimlere hangi faydayi sundugunu tek bakista anlatmali.
 - "Hizmetler", "Referanslar", "Iletisim" ve varsa "Affiliate" alanlari net basliklarla ayrilmali.
 - Iletisim cagri butonlari belirgin olmali: WhatsApp, e-posta veya form gibi en kolay kanal one cikarilmali.
 - Mobil gorunum kontrol edilmeli; metinler, butonlar ve menuler kucuk ekranlarda rahat okunmali.
@@ -75,4 +75,4 @@ Bu yol haritasi, KOBİ Pusulası statik GitHub Pages sitesini daha guvenilir, an
 - Tasarim, icerik ve teknik yapi ayni anda degil, kontrollu adimlarla gelistirilmeli.
 - Site yayindayken hiz, mobil uyum ve iletisim kanallari oncelikli korunmali.
 - Yapilan her onemli degisiklik kisa notlarla belgelenmeli; boylece proje zamanla daha kolay yonetilir.
-- KOBİ Pusulası'in hizmetleri degistikce site de guncellenmeli; site bir defalik vitrin degil, yasayan bir portfoy olarak ele alinmali.
+- KOBİ Rotası'in hizmetleri degistikce site de guncellenmeli; site bir defalik vitrin degil, yasayan bir portfoy olarak ele alinmali.

@@ -1,17 +1,17 @@
-# KOBI Pusulasi
+# KOBI Rotasi
 
 KOBI'ler icin teknoloji araci kesif ve karsilastirma sitesi.
 
 Canli site:
 
 ```text
-https://schillereu.github.io/kobipusulasi/
+https://schillereu.github.io/kobirotasi/
 ```
 
 Repo:
 
 ```text
-https://github.com/schillereu/kobipusulasi
+https://github.com/schillereu/kobirotasi
 ```
 
 ## Yerelde Acma

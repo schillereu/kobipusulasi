@@ -1,6 +1,6 @@
-# KOBİ Pusulası Agent Operating System
+# KOBİ Rotası Agent Operating System
 
-Bu dokuman, KOBİ Pusulası projesinin gelir uretebilecek bir urune evrilmesi icin ajanlarin nasil yonetilecegini anlatir.
+Bu dokuman, KOBİ Rotası projesinin gelir uretebilecek bir urune evrilmesi icin ajanlarin nasil yonetilecegini anlatir.
 
 ## Ana Yonetim
 

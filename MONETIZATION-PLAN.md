@@ -1,6 +1,6 @@
-# KOBI Pusulasi Para Kazanma Plani
+# KOBI Rotasi Para Kazanma Plani
 
-Bu plan, KOBI Pusulasi'ni zamanla gelir uretebilecek bir teknoloji rehberine donusturmek icin hazirlandi. Ana ilke: once guven ve fayda, sonra gelir.
+Bu plan, KOBI Rotasi'ni zamanla gelir uretebilecek bir teknoloji rehberine donusturmek icin hazirlandi. Ana ilke: once guven ve fayda, sonra gelir.
 
 ## Gelir Kanallari
 
@@ -28,7 +28,7 @@ Bu plan, KOBI Pusulasi'ni zamanla gelir uretebilecek bir teknoloji rehberine don
 
 ## 30 Gunluk Aksiyon
 
-- Marka ve domain kararini netlestir: KOBI Pusulasi.
+- Marka ve domain kararini netlestir: KOBI Rotasi.
 - Ilk 5 yuksek niyetli rehberi hazirla.
 - E-posta kayit alanini gercek bir servisle bagla.
 - Affiliate aciklamasini her ilgili sayfada seffaf tut.

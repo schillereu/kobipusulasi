@@ -1,6 +1,6 @@
-# KOBİ Pusulası Conversion ve QA Playbook
+# KOBİ Rotası Conversion ve QA Playbook
 
-Bu playbook, KOBİ Pusulası web sitesinde ziyaretcileri nitelikli lead'e donusturmek, teklif/iletisim akisini sade tutmak ve canli sitede kaliteyi surekli kontrol etmek icin kullanilir.
+Bu playbook, KOBİ Rotası web sitesinde ziyaretcileri nitelikli lead'e donusturmek, teklif/iletisim akisini sade tutmak ve canli sitede kaliteyi surekli kontrol etmek icin kullanilir.
 
 ## 1. Ziyaretciyi Lead'e Donusturme Akisi
 
@@ -8,7 +8,7 @@ Bu playbook, KOBİ Pusulası web sitesinde ziyaretcileri nitelikli lead'e donust
 
 Ziyaretcinin su sorulara hizli yanit bulmasi gerekir:
 
-- KOBİ Pusulası hangi problemi cozer?
+- KOBİ Rotası hangi problemi cozer?
 - Benim isletmem icin uygun mu?
 - Nasil karsilastiririm veya karar veririm?
 - Hemen ne yapmaliyim?

@@ -1,4 +1,4 @@
-# KOBİ Pusulası Agent Sistemi
+# KOBİ Rotası Agent Sistemi
 
 Bu klasor, projenin gelistirme ve yayin surecinde kullanilacak ajan rollerini tanimlar.
 

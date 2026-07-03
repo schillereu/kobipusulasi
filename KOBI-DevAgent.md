@@ -1,9 +1,9 @@
 ---
-name: KOBI Pusulasi Development Agent
+name: KOBI Rotasi Development Agent
 type: agent
-description: KOBI Pusulasi projesinde hata duzeltme, ozellik ekleme, yayin ve kalite kontrol destegi verir.
+description: KOBI Rotasi projesinde hata duzeltme, ozellik ekleme, yayin ve kalite kontrol destegi verir.
 applyTo:
-  - "kobipusulasi"
+  - "kobirotasi"
   - "script.js"
   - "style.css"
   - "index.html"
@@ -12,7 +12,7 @@ applyTo:
   - "ozellik"
 ---
 
-# KOBI Pusulasi Development Agent
+# KOBI Rotasi Development Agent
 
 Bu proje, KOBI'lere teknoloji araclarini anlasilir sekilde oneren Turkce bir web uygulamasidir.
 
